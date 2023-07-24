@@ -1,4 +1,14 @@
-### Hi there 👋
+#
+
+<div align="center">
+
+![Hello](Hello.gif)
+
+# ARON MANG'ATI <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 👩🏼‍💻 👋
+
+### A Software engineer, Developer & Data analyst 💚
+
+I'm a Software Engineer 👨‍💻 who is passionate about Machine Learning,AI,Python and Java Development and opensource. I love building applications & discussing new product ideas.
 
 <!--
 **R-oxy/R-oxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
