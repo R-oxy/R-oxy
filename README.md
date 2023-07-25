@@ -133,9 +133,14 @@ What I ❤️ doing:
     <td><a href="https://github.com/iampawan">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-oxy&theme=tokyonight&hide_langs_below=0&langs_count=20" />
 </a></td>
-    <td> ✨ Spotify Playing 🎧
+    <!-- <td> ✨ Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="" />](https://open.spotify.com/user/31oneox7mebvwuiv3rg2wgnrnu6e)</td>
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="" />](https://open.spotify.com/user/31oneox7mebvwuiv3rg2wgnrnu6e)</td> -->
+
+<p> ✨ Currently Playing on Spotify 🎧</p>
+<a href="https://open.spotify.com/user/31oneox7mebvwuiv3rg2wgnrnu6e">
+  <img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="300" />
+</a>
 
  </tr>
 </table>
@@ -163,8 +168,6 @@ What I ❤️ doing:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-oxy&show_icons=true&hide_border=true">
 </p>
-
-![Aron's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=R-oxy&theme=dracula)
 
 </details>
 
