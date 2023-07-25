@@ -41,6 +41,162 @@ I'm a Software Engineer 👨‍💻 who is passionate about Machine Learning,AI,
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/aron_ati?style=social)](https://twitter.com/intent/follow?screen_name=aron_ati) [![GitHub followers](https://img.shields.io/github/followers/R-oxy?label=Follow&style=social)](https://github.com/R-oxy/?tab=follow)
 
+</div>
+<h3 align="center">📌 Looking for a new challenge 
+<p><a href="https://standardjs.com">
+    <img src="https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat-square"
+      alt="Standard" />
+  </a></p>
+</h3>
+
+  
+  <!-- Standard -->
+  
+
+
+<div>
+
+<table border="0" width="100%" height="100%">
+ <tr>
+    <td><b style="font-size:30px"></b></td>
+    <td><b style="font-size:30px"></b></td>
+ </tr>
+ <tr>
+    <td>
+
+- 📫 How to reach me: Links are given above 🔝
+- 🔭 I'm currently learning Software Engineering at ALX Africa
+- 👯 I’m looking to collaborate on Projects
+- 💬 Apart from tech you can Ask me about Movies, TV Shows and Books
+
+- 🤪 Fun fact: I love to travel and meet new people.
+- 👉</td>
+    <td>- 💻 The tech I'm interested in Web development,AI and ML
+- ✍ Technical writer at Upwork
+
+- ✨ I'm learning Java, AI, Machine Learning etc.
+</td>
+ </tr>
+</table>
+
+</div>
+<div>
+
+What I ❤️ doing:
+
+### Languages & Tools
+
+<p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+  <code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png"></code>
+<code><img height="26" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="24" height="24"/> </a></a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="24" height="24"/> </a>  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="24" height="24"/> </a>
+
+</p></br>
+</div>
+<div></div>
+<div>
+
+<br>
+
+<img align="center" alt="GIF" src="code.gif?raw=true" width="100%" height="400" />
+
+<br/>
+<br/>
+<br/>
+
+<summary align="center">📝 My GitHub Stats</summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=R-oxy&show_icons=true&title_color=79ff97&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" width="100%" height="400"/>
+
+<br/>
+<br/>
+
+<table border="0"" width="100%" height="100%">
+ <tr>
+    <td><b style="font-size:30px">Language stats</b></td>
+    <td><b style="font-size:30px">Inspiration</b></td>
+ </tr>
+ <tr>
+    <td><a href="https://github.com/iampawan">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-oxy&theme=tokyonight&hide_langs_below=0&langs_count=20" />
+</a></td>
+    <td> ✨ Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="" />](https://open.spotify.com/user/31oneox7mebvwuiv3rg2wgnrnu6e)</td>
+
+ </tr>
+</table>
+
+</div>
+
+### ✨ Blogs & Videos
+
+<details>
+
+#### 📕 Latest Blog Posts
+
+➡️
+
+#### 📺 Latest YouTube Videos
+
+</details>
+
+### ⚡ Github Stats
+
+<details>	
+  
+<img src="https://github-readme-stats.vercel.app/api?username=R-oxy&show_icons=true&hide_border=true&count_private=true">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=R-oxy&show_icons=true&hide_border=true&layout=compact&langs_count=8">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=R-oxy&show_icons=true&hide_border=true">
+</p>
+
+![Aron's GitHub Activity graph](https://activity-graph.herokuapp.com/graph?username=R-oxy&theme=dracula)
+
+</details>
+
+<!--footer-->
+
+##
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to [reach out](https://www.linkedin.com/in/aron-musyoki-137572202/) and introduce yourself (don’t just say hi, tell me about yourself")</b> 😊 💜</em>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+
+
+
+
+
+
+
+
+
+
+
+## Support
+
+<h6>
+<a href="https://www.buymeacoffee.com/aronmang'ati" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 135px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
+
+
+---
+
+> [Aron Mang'ati](https://www.linkedin.com/in/aron-musyoki-137572202/) &nbsp;&middot;&nbsp;
+> GitHub [R-oxy](https://github.com/R-oxy) &nbsp;&middot;&nbsp;
+> Twitter [@aron_ati](https://twitter.com/aron_ati)
+
 <!--
 **R-oxy/R-oxy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
