@@ -175,20 +175,6 @@ What I ❤️ doing:
 
 
 
-
-
-
-
-
-
-
-
-## Support
-
-<h6>
-<a href="https://www.buymeacoffee.com/aronmang'ati" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/purple_img.png" alt="Buy Me A Coffee" style="height: 32px !important;width: 135px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" >
-
-
 ---
 
 > [Aron Mang'ati](https://www.linkedin.com/in/aron-musyoki-137572202/) &nbsp;&middot;&nbsp;
