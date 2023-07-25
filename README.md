@@ -135,7 +135,7 @@ What I ❤️ doing:
 </a></td>
     <td> ✨ Currently Playing on Spotify 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="" />](https://open.spotify.com/user/31dr725bdzmmhrfxes7ol44cx454)</td>
+[<img src="https://i.scdn.co/image/ab67656300005f1ff8141e891abf749375772343" alt="codeSTACKr Spotify Playing" width="" />](https://open.spotify.com/user/31dr725bdzmmhrfxes7ol44cx454)</td>
 
  </tr>
 </table>
